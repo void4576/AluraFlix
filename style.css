@@ -2,6 +2,13 @@ body{
     background-color:black
     color:whitesmoke
 }
+
+header{
+    border-bottom: solid 2px rgb(4, 138, 138);
+    font-size: 35px;
+    color: rgb(4, 138, 138);
+    padding: 20px;
+}
 h1{
     color:brown
 }
