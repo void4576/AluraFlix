@@ -1,12 +1,12 @@
 body{
-    background-color:black;
-    color:whitesmoke;
+    background-color: whitesmoke;
+    color:dimgray;
 }
 
 header{
-    border-bottom: solid 2px rgb(4, 138, 138);
+    border-bottom: solid 2px #2e8fc7;
     font-size: 35px;
-    color: rgb(4, 138, 138);
+    color:#2e8fc7
     padding: 20px;
 }
 
@@ -16,6 +16,6 @@ h1{
 }
 
 p{
-    color:brown;
+    color:rgb(255, 159, 69);
     font-size: 20px;
 }
