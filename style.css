@@ -1,6 +1,6 @@
 body{
-    background-color:black
-    color:whitesmoke
+    background-color:black;
+    color:whitesmoke;
 }
 
 header{
@@ -9,6 +9,12 @@ header{
     color: rgb(4, 138, 138);
     padding: 20px;
 }
+
 h1{
-    color:brown
+    color:brown;
+}
+
+p{
+    color:brown;
+    font-size: 20px;
 }
